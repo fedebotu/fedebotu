@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+-🎯 I'm focusing now, I will update this section over time 😉 
 <!--
 **Juju-botu/Juju-botu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
