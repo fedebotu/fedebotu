@@ -3,7 +3,7 @@
 
 -🎯 I'm focusing now, I will update this section over time 😉 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juju-botu&theme=buefy">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juju-botu&theme=buefy&layout=compact">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juju-botu&show_icons=true&theme=buefy">
 
