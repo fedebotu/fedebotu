@@ -3,16 +3,16 @@
 
 -🎯 I'm focusing now, I will update this section over time 😉 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juju-botu&theme=buefy&layout=compact" />
-</a>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juju-botu&show_icons=true&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juju-botu&show_icons=true&theme=great-gatsby" />
 </a>
 
 <!--
 **Juju-botu/Juju-botu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juju-botu&theme=buefy&layout=compact" />
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
