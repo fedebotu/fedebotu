@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+
+[![Facebook Badge](https://img.shields.io/badge/-fede.botu-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/fede.botu/)](https://www.facebook.com/fede.botu/)
+[![Linkedin Badge](https://img.shields.io/badge/-federicoberto-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federicoberto/)](https://www.linkedin.com/in/federicoberto/)
+[![Gmail Badge](https://img.shields.io/badge/-fberto@kaist.ac.kr-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:fberto@kaist.ac.kr)](mailto:fberto@kaist.ac.kr)
+[![Instagram Badge](https://img.shields.io/badge/-fede.botu-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/fede.botu/)](https://www.instagram.com/fede.botu/)
+[![Twitter Badge](https://img.shields.io/badge/-fedebotu-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/fedebotu)](https://twitter.com/fedebotu)
+
 ![](https://komarev.com/ghpvc/?username=Juju-botu)
 
 -🎯 I'm focusing now, I will update this section over time 😉 
