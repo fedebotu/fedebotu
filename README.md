@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to my Github page 👋
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="480px">
 
 
 [![Facebook Badge](https://img.shields.io/badge/-fede.botu-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/fede.botu/)](https://www.facebook.com/fede.botu/)
@@ -14,7 +15,7 @@
 
 
 
-<img height="170x" src="https://github-readme-stats.vercel.app/api?username=Juju-botu&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
+<img width="480px" src="https://github-readme-stats.vercel.app/api?username=Juju-botu&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
 
 <!--
 OLD STUFF
