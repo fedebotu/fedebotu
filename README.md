@@ -12,9 +12,17 @@
 -🎯 I'm focusing now, I will update this section over time 😉 
 
 
+
+
+<img height="170x" src="https://github-readme-stats.vercel.app/api?username=Juju-botu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
+
+<!--
+OLD STUFF
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juju-botu&show_icons=true&theme=great-gatsby" />
 </a>
+-->
+
 
 <!--
 **Juju-botu/Juju-botu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
