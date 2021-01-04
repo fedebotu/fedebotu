@@ -8,7 +8,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-fede.botu-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/fede.botu/)](https://www.instagram.com/fede.botu/)
 [![Twitter Badge](https://img.shields.io/badge/-fedebotu-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/fedebotu)](https://twitter.com/fedebotu)
 
-![](https://komarev.com/ghpvc/?username=Juju-botu)
+<!-- ![](https://komarev.com/ghpvc/?username=Juju-botu) -->
 
 -🎯 I'm focusing now, I will update this section over time 😉 
 
