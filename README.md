@@ -15,7 +15,7 @@
 You may find additional info on [my homepage](https://fedebotu.github.io/) 😉
 
 
-<img width="480px" src="https://github-readme-stats.vercel.app/api?username=fedebotu&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=cobalt" /><!-- wi*quL3fcV -->
+<!-- <img width="480px" src="https://github-readme-stats.vercel.app/api?username=fedebotu&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=cobalt" /><!-- wi*quL3fcV -->
 
 <!--
 OLD STUFF
